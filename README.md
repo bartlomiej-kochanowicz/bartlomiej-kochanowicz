@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m frontend engineer working in react ecosystem⚛
+🔭 I’m full stack software engineer working with react and nodejs⚛
 
 
 ## 🌐 Socials:
